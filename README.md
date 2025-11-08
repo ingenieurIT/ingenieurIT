@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ingenieurIT
+- 👋 Hi, I’m Ivan TCHOUMI
 - 👀 I’m interested in Apps Development
 - 🌱 I’m currently learning React Native an JS
 - 💞️ I’m looking to collaborate on DJango and ReactJS or Native Projects
